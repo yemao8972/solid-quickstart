@@ -1,5 +1,12 @@
-PRIVACY POLICY
+import { Title } from "solid-start";
+import { HttpStatusCode } from "solid-start/server";
 
+export default function index() {
+  return (
+    <main>
+<Title>PRIVACY POLICY</Title>
+<h1>PRIVACY POLICY</</h1>
+<p>
 Thank you
 for playing our games!
 
@@ -56,3 +63,8 @@ Contact US
 If you have any questions about PRIVACY-POLICY, please send email to ystgpcudqrmo@gmail.com
 
 Thanks.
+</p>
+
+</main>
+  );
+}
