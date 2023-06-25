@@ -1,7 +1,4 @@
-import { Title } from "solid-start";
-import { HttpStatusCode } from "solid-start/server";
-
-export default function index() {
+export default function Home() {
   return (
     <main>
 <Title>PRIVACY POLICY</Title>
