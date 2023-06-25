@@ -29,7 +29,7 @@ export default function Home() {
 		We do not have a payment function in game, so we do not collect any of your payment<br>
 		information.<br>
 <br>
-		We do not have Push Notifications & Local Notifications functional in game, so we do<br>
+		We do not have Push Notifications and Local Notifications functional in game, so we do<br>
 		not collect any of your notification information.<br>
 <br>
 		We do not have the function of using location information in game, so we do not collect<br>
