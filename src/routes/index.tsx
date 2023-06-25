@@ -4,10 +4,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>Hello world!</h1>
-      <Title>Hello World111</Title>
       <h1>Hello world111!</h1>
-      <Counter />
       <p>
         Visit{" "}
         <a href="https://start.solidjs.com" target="_blank">
