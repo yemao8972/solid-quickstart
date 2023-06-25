@@ -60,6 +60,7 @@ export default function Home() {
 		If you have any questions about PRIVACY-POLICY, please send email to ystgpcudqrmo@gmail.com<br/><br/>
 
 		Thanks.<br/>
+		</p>
     </main>
   );
 }
